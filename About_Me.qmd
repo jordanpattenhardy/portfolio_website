@@ -2,4 +2,6 @@
 title: "About Me"
 ---
 
-hi
+Hi! My name is Jordan Patten Hardy.
+
+![](headshot.jpg)

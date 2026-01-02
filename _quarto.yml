@@ -11,7 +11,7 @@ website:
       - text: "About Me"
         href: About_Me.qmd
       - text: "Resume"
-        href: HardyResume2025.pdf
+        href: Resume.qmd
       - text: "Portfolio"
         href: HardyPortfolio2025.pdf
 
