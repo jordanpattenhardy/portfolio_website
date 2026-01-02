@@ -12,8 +12,8 @@ website:
         href: About_Me.qmd
       - text: "Resume"
         href: Resume.qmd
-      - text: "Portfolio"
-        href: HardyPortfolio2025.pdf
+      - text: "Projects"
+        href: Projects.qmd
 
     right:
       - icon: linkedin
