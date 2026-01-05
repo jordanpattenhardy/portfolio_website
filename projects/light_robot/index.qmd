@@ -1,5 +1,4 @@
 ---
 title: "Light Following Robot"
-description: "Brief summary of what I did."
 image: robot.jpg
 ---

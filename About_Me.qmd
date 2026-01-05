@@ -1,7 +1,41 @@
----
-title: "About Me"
----
+Hi! I’m **Jordan Patten Hardy**: student researcher, social impact–driven engineer, and avid design enthusiast. I’m a junior Mechanical Engineering student at Brigham Young University, and I believe in engineering for the good of the world.
 
-Hi! My name is Jordan Patten Hardy.
+::: {layout-align="center"}
+![](headshot.jpg){width=50% fig-align="center"}
+:::
 
-![](headshot.jpg)
+## EDUCATION
+
+* **Bachelor of Science:** Mechanical Engineering, *Brigham Young University*
+    * GPA 3.96 | Herbert V. and Berniece B. Kramer Scholarship Recipient
+    * **Coursework:** Manufacturing Processes, Materials Science, Thermodynamics, Heat Transfer (Winter 2026), Fluid Dynamics (Winter 2026), Computer Aided Design
+
+## RESEARCH EXPERIENCE
+* **Engineering for Global Health Research** | Provo, Utah (Apr 2025 – Present)
+    * Developing sustainable medical technologies for resource-limited healthcare settings
+    * Conducting technical reviews and preparing documentation for research proposals
+* **Disaster Relief and Mitigation Research** | Provo, Utah (Aug 2024 – Apr 2025)
+    * Optimized emergency response systems using social impact diffusion models
+    * Coauthored a published paper for the ASME IDETC 2025 conference
+    * Delivered a technical presentation on a data-driven disaster relief system optimization
+
+## WORK EXPERIENCE
+* **Teaching Assistant — Newtonian Mechanics**, *Brigham Young University* | Provo, Utah (Jan 2024 – May 2025)
+    * Supported instruction of undergraduates in core engineering and physics concepts
+    * Graded assignments and provided detailed feedback to enhance learning
+
+## VOLUNTEER EXPERIENCE
+* **Full-time Representative**, *The Church of Jesus Christ of Latter-day Saints* | Reno, Nevada (Jun 2022 – Dec 2023)
+    * Completed 18 months of proselyting and community service in Spanish
+    * Taught English to 4–8 community members weekly
+    * Led groups of 10–12 volunteers and conducted regular training meetings
+* **English Teacher**, *International Language Program* | Pachuca, Mexico (Apr 2024 – Aug 2024)
+
+## SKILLS AND ACHIEVEMENTS
+
+* **Software & Tools:** Onshape, SolidWorks, Python, C++, LaTeX, Ansys Workbench, MATLAB, Microsoft Office
+* **Technical Skills:** Mechanical design, computer-aided modeling, technical & project documentation, data analysis, cross-functional communication
+* **Certifications:** BYU Weidman Center Leadership Certificate (Expected 2027), Spanish Language Certificate (Expected 2027)
+* **Awards/Activities:** BYU Engineering Together Research Mentorship Award; Member of the American Society of Mechanical Engineers (ASME), the Society of Women Engineers (SWE), and the BYU Biomedical Engineering Association
+
+Link to my current [Resume](HardyResume2025.pdf)

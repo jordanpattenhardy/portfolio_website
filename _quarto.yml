@@ -10,16 +10,17 @@ website:
     left:
       - text: "About Me"
         href: About_Me.qmd
-      - text: "Resume"
-        href: Resume.qmd
       - text: "Projects"
         href: Projects.qmd
 
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/jordanpattenhardy
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?hl=en&user=xCWh7MUAAAAJ
 
 format:
   html:
     theme: lux
     toc: true
+    include-after-body: footer.html

@@ -5,5 +5,5 @@ listing:
     - "hand_mixer/index.qmd" 
     - "light_robot/index.qmd"
   type: grid
-  fields: [image, title, description]
+  fields: [image, title]
 ---

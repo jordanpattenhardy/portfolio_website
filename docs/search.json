@@ -2,9 +2,9 @@
   {
     "objectID": "About_Me.html",
     "href": "About_Me.html",
-    "title": "About Me",
+    "title": "Jordan Patten Hardy",
     "section": "",
-    "text": "Hi! My name is Jordan Patten Hardy."
+    "text": "Hi! I’m Jordan Patten Hardy: student researcher, social impact–driven engineer, and avid design enthusiast. I’m a junior Mechanical Engineering student at Brigham Young University, and I believe in engineering for the good of the world."
   },
   {
     "objectID": "Resume.html",
@@ -25,7 +25,7 @@
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Light Following Robot\n\n\nBrief summary of what I did.\n\n\n\n\n\n\n\n\n\n\n\n\nNext Generation Hand Mixer Design\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Light Following Robot\n\n\n\n\n\n\n\n\n\n\n\n\nNext Generation Hand Mixer Design\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/hand_mixer/index.html#project-overview",
@@ -33,5 +33,75 @@
     "title": "Next Generation Hand Mixer Design",
     "section": "",
     "text": "This project aimed to modernize an existing design by enhancing its appearance and implementing mechanical improvements for better functionality.\n\n\n\nComparison between Current Generation Smeg Hand Mixer and Next Generation Design\n\n\n\n\n\n\n\n\n\n\nSome design changes that were implemented\n\n\n\n\n\n\n\nParts of Completed Assembly\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdeation Sketches\n\n\n\n\ntext\n\n\n\n\nMost parts in the assembly were created using a master model and offset surfaces. The body of the master model was created with a revolve, while the handle was formed using a complex loft that follows a guide curve.\n\n\n\n\n\n\nMany tests were run during the modeling process to make sure that a desirable result was being created. These tests were used to determine whether the interferences that occurred were expected, whether the model had a constant wall thickness so it could be constructed with injection modeling, and whether the model had a constant curvature in the intended areas.\n\n\n\n\n\n\nThickness Test\n\n\n\n\n\n\n\nInterference Test\n\n\n\n\n\n\n\nZebra Test"
+  },
+  {
+    "objectID": "About_Me.html#skills-and-achievements",
+    "href": "About_Me.html#skills-and-achievements",
+    "title": "Jordan Patten Hardy",
+    "section": "SKILLS AND ACHIEVEMENTS",
+    "text": "SKILLS AND ACHIEVEMENTS\n\nSoftware & Tools: Onshape, SolidWorks, Python, C++, LaTeX, Ansys Workbench, MATLAB, Microsoft Office\nTechnical Skills: Mechanical design, computer-aided modeling, technical & project documentation, data analysis, cross-functional communication\nCertifications: BYU Weidman Center Leadership Certificate (Expected 2027), Spanish Language Certificate (Expected 2027)\nAwards/Activities: BYU Engineering Together Research Mentorship Award; Member of the American Society of Mechanical Engineers (ASME), the Society of Women Engineers (SWE), and the BYU Biomedical Engineering Association\n\nLink to my current Resume"
+  },
+  {
+    "objectID": "About_Me.html#education",
+    "href": "About_Me.html#education",
+    "title": "Jordan Patten Hardy",
+    "section": "EDUCATION",
+    "text": "EDUCATION\n\nBachelor of Science: Mechanical Engineering, Brigham Young University\n\nGPA 3.96 | Herbert V. and Berniece B. Kramer Scholarship Recipient\nCoursework: Manufacturing Processes, Materials Science, Thermodynamics, Heat Transfer (Winter 2026), Fluid Dynamics (Winter 2026), Computer Aided Design"
+  },
+  {
+    "objectID": "About_Me.html#research-experience",
+    "href": "About_Me.html#research-experience",
+    "title": "Jordan Patten Hardy",
+    "section": "RESEARCH EXPERIENCE",
+    "text": "RESEARCH EXPERIENCE\n\nEngineering for Global Health Research | Provo, Utah (Apr 2025 – Present)\n\nDeveloping sustainable medical technologies for resource-limited healthcare settings\nConducting technical reviews and preparing documentation for research proposals\n\nDisaster Relief and Mitigation Research | Provo, Utah (Aug 2024 – Apr 2025)\n\nOptimized emergency response systems using social impact diffusion models\nCoauthored a published paper for the ASME IDETC 2025 conference\nDelivered a technical presentation on a data-driven disaster relief system optimization"
+  },
+  {
+    "objectID": "About_Me.html#work-volunteer-experience",
+    "href": "About_Me.html#work-volunteer-experience",
+    "title": "About Me",
+    "section": "WORK & VOLUNTEER EXPERIENCE",
+    "text": "WORK & VOLUNTEER EXPERIENCE\n\nTeaching Assistant - Newtonian Mechanics Brigham Young University (Jan 2024 - May 2025)\n\nSupported instruction of undergraduates in core engineering and physics concepts\nGraded assignments and provided detailed feedback to enhance learning\n\nFull-time Representative, Church of Jesus Christ of Latter-Day Saints\n\nCompleted 18 months of proselyting and community service in Spanish\nTaught English to 4-8 community members weekly *Led groups of 10-12 volunteers and conducted regular training meetings"
+  },
+  {
+    "objectID": "About_Me.html#work-experience",
+    "href": "About_Me.html#work-experience",
+    "title": "Jordan Patten Hardy",
+    "section": "WORK EXPERIENCE",
+    "text": "WORK EXPERIENCE\n\nTeaching Assistant — Newtonian Mechanics, Brigham Young University | Provo, Utah (Jan 2024 – May 2025)\n\nSupported instruction of undergraduates in core engineering and physics concepts\nGraded assignments and provided detailed feedback to enhance learning"
+  },
+  {
+    "objectID": "About_Me.html#section",
+    "href": "About_Me.html#section",
+    "title": "About Me",
+    "section": "",
+    "text": "Full-time Representative, Church of Jesus Christ of Latter-Day Saints\n\nCompleted 18 months of proselyting and community service in Spanish\nTaught English to 4-8 community members weekly *Led groups of 10-12 volunteers and conducted regular training meetings"
+  },
+  {
+    "objectID": "About_Me.html#volunteer-experience",
+    "href": "About_Me.html#volunteer-experience",
+    "title": "Jordan Patten Hardy",
+    "section": "VOLUNTEER EXPERIENCE",
+    "text": "VOLUNTEER EXPERIENCE\n\nFull-time Representative, The Church of Jesus Christ of Latter-day Saints | Reno, Nevada (Jun 2022 – Dec 2023)\n\nCompleted 18 months of proselyting and community service in Spanish\nTaught English to 4–8 community members weekly\nLed groups of 10–12 volunteers and conducted regular training meetings\n\nEnglish Teacher, International Language Program | Pachuca, Mexico (Apr 2024 – Aug 2024)"
+  },
+  {
+    "objectID": "About_Me.html#volunte",
+    "href": "About_Me.html#volunte",
+    "title": "About Me",
+    "section": "VOLUNTE",
+    "text": "VOLUNTE\n\nFull-time Representative, Church of Jesus Christ of Latter-Day Saints\n\nCompleted 18 months of proselyting and community service in Spanish\nTaught English to 4-8 community members weekly *Led groups of 10-12 volunteers and conducted regular training meetings"
+  },
+  {
+    "objectID": "About_Me.html#volunteer",
+    "href": "About_Me.html#volunteer",
+    "title": "About Me",
+    "section": "VOLUNTEER",
+    "text": "VOLUNTEER\n\nFull-time Representative, Church of Jesus Christ of Latter-Day Saints\n\nCompleted 18 months of proselyting and community service in Spanish\nTaught English to 4-8 community members weekly *Led groups of 10-12 volunteers and conducted regular training meetings"
+  },
+  {
+    "objectID": "About_Me.html#volunteer-expe",
+    "href": "About_Me.html#volunteer-expe",
+    "title": "About Me",
+    "section": "VOLUNTEER EXPE",
+    "text": "VOLUNTEER EXPE\n\nFull-time Representative, Church of Jesus Christ of Latter-Day Saints\n\nCompleted 18 months of proselyting and community service in Spanish\nTaught English to 4-8 community members weekly *Led groups of 10-12 volunteers and conducted regular training meetings"
   }
 ]
