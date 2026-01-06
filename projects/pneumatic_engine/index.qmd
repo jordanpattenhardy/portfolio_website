@@ -2,3 +2,12 @@
 title: "The Power of Pneumatics: A Study in Reciprocating Motion"
 image: engine.png
 ---
+## Project Overview
+
+This project aimed to modernize an existing design by enhancing its appearance and implementing mechanical improvements for better functionality. 
+
+![Completed Pneumatic Engine](engine.png)
+
+View the complete prototyping package [here](Prototype_Package.pdf)
+
+View the complete design report [here](Design_Report.pdf)
