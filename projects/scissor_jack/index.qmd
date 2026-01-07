@@ -1,4 +1,4 @@
 ---
-title: "The Bricks of Bangkok: Reconstructing a Robotic Icon"
+title: "Scissor Jack"
 image: structure.png
 ---

@@ -25,7 +25,7 @@
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "To view each project’s details, click the image.\n\n\n\n\n\n\n\n\n\n\nThe Bricks of Bangkok: Reconstructing a Robotic Icon\n\n\n\n\n\n\n\n\n\n\n\n\nThe Geometry of Gameplay: A Parametric Tribute to the NES Controller\n\n\n\n\n\n\n\n\n\n\n\n\nThe Logic of Light: Creating Collision-Free Pathfinding Systems\n\n\n\n\n\n\n\n\n\n\n\n\nThe Marmot’s Margin of Error: Quantifying the Groundhog’s Gaze\n\n\n\n\n\n\n\n\n\n\n\n\nThe Mechanics of Mixing: Designing a Next-Generation Hand Mixer\n\n\n\n\n\n\n\n\n\n\n\n\nThe Modulus of Merriment: Selection Science for the Simply Supported Swing\n\n\n\n\n\n\n\n\n\n\n\n\nThe Power of Pneumatics: A Study in Reciprocating Motion\n\n\n\n\n\nNo matching items\n\n\nView my current portfolio (PDF)"
+    "text": "To view each project’s details, click the image.\n\n\n\n\n\n\n\n\n\n\nScissor Jack\n\n\n\n\n\n\n\n\n\n\n\n\nThe Bricks of Bangkok: Reconstructing a Robotic Icon\n\n\n\n\n\n\n\n\n\n\n\n\nThe Dynamics of Deceleration: Determining Friction Coefficients from Numerical Analysis\n\n\n\n\n\n\n\n\n\n\n\n\nThe Geometry of Gameplay: A Parametric Tribute to the NES Controller\n\n\n\n\n\n\n\n\n\n\n\n\nThe Logic of Light: Creating Collision-Free Pathfinding Systems\n\n\n\n\n\n\n\n\n\n\n\n\nThe Marmot’s Margin of Error: Quantifying the Groundhog’s Gaze\n\n\n\n\n\n\n\n\n\n\n\n\nThe Mechanics of Mixing: Designing a Next-Generation Hand Mixer\n\n\n\n\n\n\n\n\n\n\n\n\nThe Modulus of Merriment: Selection Science for the Simply Supported Swing\n\n\n\n\n\n\n\n\n\n\n\n\nThe Power of Pneumatics: A Study in Reciprocating Motion\n\n\n\n\n\nNo matching items\n\n\nView my current portfolio (PDF)"
   },
   {
     "objectID": "projects/hand_mixer/index.html#project-overview",
@@ -383,5 +383,19 @@
     "title": "The Bricks of Bangkok: Reconstructing a Robotic Icon",
     "section": "The Robot Building-CAD Modeling",
     "text": "The Robot Building-CAD Modeling\nI chose to design a hypothetical LEGO architecture set inspired by the Bank of Asia in Bangkok, Thailand—affectionately known as The Robot Building. The structure appealed to me because of its unique shape and fun appearance.\n\n\n\nIllustration of the stages of the LEGO structure design\n\n\nAfter developing an assembly plan (included in the complete documentation), I opened an Assembly Studio in Onshape and began construction. Using the configuration generator, I inserted the required pieces and sourced any special, non-rectangular elements from a provided database. I especially enjoyed this project as it allowed me to merge structured engineering design with creativity—bringing my inner child to life\nView the complete documentation here"
+  },
+  {
+    "objectID": "projects/car_coast/index.html",
+    "href": "projects/car_coast/index.html",
+    "title": "The Dynamics of Deceleration: Determining Friction Coefficients from Numerical Analysis",
+    "section": "",
+    "text": "Photo by Roberto Nickson on Unsplash\n\n\n\n\n\nView the complete report [here](car_lab.pdf"
+  },
+  {
+    "objectID": "projects/car_coast/index.html#project-overview",
+    "href": "projects/car_coast/index.html#project-overview",
+    "title": "The Dynamics of Deceleration: Determining Friction Coefficients from Numerical Analysis",
+    "section": "",
+    "text": "Photo by Roberto Nickson on Unsplash\n\n\n\n\n\nView the complete report [here](car_lab.pdf"
   }
 ]

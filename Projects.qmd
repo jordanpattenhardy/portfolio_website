@@ -11,6 +11,7 @@ listing:
     - "swingset_material/index.qmd"
     - "pneumatic_engine/index.qmd"
     - "scissor_jack/index.qmd"
+    - "car_coast/index.qmd"
   type: grid
   fields: [image, title]
   
@@ -22,7 +23,6 @@ To view each project's details, click the image.
 
 ---
 Current Projects: 
-https://www.overleaf.com/read/ngqqrrjxzzrz#af5e3b
 ---
 <div style="text-align: center;">
   View my current [portfolio (PDF)](HardyPortfolio2025.pdf)

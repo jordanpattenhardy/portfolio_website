@@ -1,0 +1,14 @@
+---
+title: "The Dynamics of Deceleration: Determining Friction Coefficients from Numerical Analysis"
+image: car_pic.png
+---
+## Project Overview
+::: {style="text-align: center:"}
+![Photo by [Roberto Nickson](https://unsplash.com/@rpnickson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/red-bmw-coupe-parked-at-road-zu95jkyrGtw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](car_pic.png){fig-align="center" width="50%"}
+:::
+
+![](graph.png)
+
+![](hand_calcs.png)
+
+View the complete report [here](car_lab.pdf)

@@ -6,7 +6,9 @@
   {
     "listing": "/Projects.html",
     "items": [
+      "/projects/scissor_jack/index.html",
       "/projects/robot_building/index.html",
+      "/projects/car_coast/index.html",
       "/projects/nes_controller/index.html",
       "/projects/light_robot/index.html",
       "/projects/phil_stat/index.html",
