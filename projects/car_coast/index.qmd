@@ -2,13 +2,35 @@
 title: "The Dynamics of Deceleration: Determining Friction Coefficients from Numerical Analysis"
 image: car_pic.png
 ---
+
 ## Project Overview
+When a car moves without engine power, it gradually slows due to environmental forces like gravity, friction, and air resistance. By examining this natural deceleration, we can learn how these forces affect vehicle motion. In this project, data from a 2016 Aston Martin DB9 coasting on a gentle incline was analyzed to estimate friction and drag effects. The results provide insight into how external forces influence vehicle performance during real-world motion.
+
 ::: {style="text-align: center:"}
 ![Photo by [Roberto Nickson](https://unsplash.com/@rpnickson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/red-bmw-coupe-parked-at-road-zu95jkyrGtw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](car_pic.png){fig-align="center" width="50%"}
 :::
 
-![](graph.png)
+## The Process
+To analyze the motion of a car coasting both uphill and downhill on an inclined plane, we began by constructing free-body diagrams for each scenario. These diagrams account for the force of gravity, the normal force, aerodynamic drag ($F_d$), and rolling friction ($F_r$). Using the free-body and corresponding kinetic diagrams, we derived the equations of motion by applying Newton’s second law in the direction of motion.
 
 ![](hand_calcs.png)
+
+After deriving the necessary equations, we followed these steps:
+
+* **Numerical Integration:** Converted the second-order equations into a system of first-order ordinary differential equations (ODEs), solved using Python’s `scipy.integrate.odeint`.
+* **Parameter Optimization:** Performed a manual iterative fit of the drag coefficient $C_d$ and the coefficient of kinetic friction $k$ to align the simulated velocity curves with experimental "North" and "South" data sets.
+* **Sensitivity Analysis:** Conducted uncertainty quantification by introducing a $\pm 5\%$ variation in final velocity ($v_f$) to establish confidence intervals for our fitted parameters.
+
+
+## Results
+The best-fit parameters that matched the experimental data were **$C_d = 0.3283$** and **$k = 0.0170$**. Using these values, the modeled curves closely aligned with the measured data, as shown in the velocity-time comparison.
+
+![](graph.png)
+
+## Discussion
+The coefficient of drag $C_d$ primarily influences vehicle deceleration at higher speeds due to its quadratic relationship with velocity, making it more dominant during the early phase of coast-down. In contrast, the rolling friction coefficient $k$ exerts a near-constant effect and is more significant at lower speeds.
+
+Because of this, the effects of $C_d$ and $k$ can be distinguished by examining how quickly velocity drops early in the coast versus how it behaves near the end. However, there is still some flexibility—it is possible to slightly increase one parameter while decreasing the other and still achieve a visually similar fit. This limits the precision with which either parameter can be determined individually, a trade-off we quantified through our confidence interval analysis.
+
 
 View the complete report [here](car_lab.pdf)
